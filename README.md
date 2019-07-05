@@ -1,3 +1,7 @@
+Supplementary Tables S1-S5 from the publication "“Identification of long intergenic non-coding RNAs (lincRNAs) deregulated in gastrointestinal stromal tumors (GISTs)” 
+
+Supplementary Figures 1-5 and Tables 1-7 from the publication “MiRNA profiling of gastrointestinal stromal tumors by next-generation sequencing”.
+
 Supplementary Figure 1: Differential expression of validated miRNAs in GIST detected by TLDA. The red color represents significantly (Bonferroni adjusted p < 0.01) differentially expressed miRNAs with fold change > 2, while blue color represents non-differentially expressed miRNAs. 
 
 Supplementary Figure 2: Differential expression of KIT and PDGFRA in GIST and adjacent tissues. Expression levels of KIT and PDGFRA genes were analyzed using qRT-PCR. The data is represented as log22(-∆Ct).
